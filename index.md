@@ -1,4 +1,32 @@
 # Portfolio
+
+
+---
+## Creative Idea Contest in IT/Design Division
+
+### 금상, 덕성여자대학교 주관, Nov. 27, 2020.
+
+Suggestions to reduce resource consumption.
+
+---
+## College of Science and Technology Academic Conference
+
+### 장려상, 덕성여자대학교 주관, Nov. 26, 2020.
+
+Suggestions for movie box offcie success factors.  
+Tool: R
+Method: Factor analysis, K-means clustring, regression.
+<center><img src="images/Poster.png"/></center>
+
+---
+## Smart life ICT Convergence Idea APP Contest
+
+### 우수상, 서울시º서울산업진흥원 주관, May, 30, 2017.
+
+Suggest ideas and applications related to shared spaces of universities.
+[![Open PPT](pdf/UNIon.pdf)
+Tool: R (Web app is also made by R, Shiny package).
+
 ---
 ## Natural Language Processing
 
