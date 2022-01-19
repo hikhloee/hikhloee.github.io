@@ -16,15 +16,17 @@ Suggestions to reduce resource consumption.
 Suggestions for movie box offcie success factors.  
 Tool: R
 Method: Factor analysis, K-means clustring, regression.
-<center><img src="images/Poster.png"/></center>
+<center><img src="images/Poster.PNG"/></center>
 
 ---
 ## Smart life ICT Convergence Idea APP Contest
 
 ### 우수상, 서울시º서울산업진흥원 주관, May, 30, 2017.
 
-Suggest ideas and applications related to shared spaces of universities.
-[![Open PPT](pdf/UNIon.pdf)
+Suggest ideas and applications related to shared spaces of universities.  
+
+[![Open Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/UNIon.pdf)
+
 Tool: R (Web app is also made by R, Shiny package).
 
 ---
