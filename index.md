@@ -68,7 +68,7 @@ Method: Factor analysis, K-means clustring, regression.
 ---
 ## Smart life ICT Convergence Idea APP Contest
 
-### 우수상, 서울시º서울산업진흥원 주관, May, 30, 2017.
+### 우수상, 서울시·서울산업진흥원 주관, May, 30, 2017.
 
 Suggest ideas and applications related to shared spaces of universities.  
 
