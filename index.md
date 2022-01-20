@@ -22,6 +22,8 @@ In bayesian framework, mostly local prior is used for model select. In this pape
 1. model consistency
 2. less RMSE
 <center><img src="images/nonlocal.PNG"/></center>
+
+
 ---
 ## Time Series representation for clustering using umbalanced Haar wavelet transformation (Review)
 
@@ -40,8 +42,10 @@ In this paper, DUHT(Discrete Unbalanced Haar Wavelet Tramsformation, Fryzlewicz,
 [![Open PPT](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/weather.pdf)
 [![Open news](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/news.pdf)
 
-Predicting landslides in Gyeongsang Province.
-Tool: R, Python
+Predicting landslides in Gyeongsang Province.  
+
+Tool: R, Python  
+
 Method: lgbm, xgboost, random forest.
 
 ---
