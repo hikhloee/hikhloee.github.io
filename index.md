@@ -1,5 +1,48 @@
 # Portfolio
 
+---
+## Towards a Rigorous Evaluation of Time-Series Anomaly Detection (Review)
+
+[![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TAD.pdf)
+
+Anomaly detection; AD
+As Industry 4.0 accelerates system automation, consequences of system failures can have significant social impact(Lee 2008). To prevent this failure, the detection of anomalous is more important. However, the paper introduces pitfalls of TAD evaluation and suggests some other methods to evaluate TAD rigorously.
+
+<center><img src="images/tad.PNG"/></center>
+<center><img src="images/tad2.PNG"/></center>
+
+---
+## Bayesian Model Selection in High-Dimensional Settings (Review)
+
+### Recent statistical techniques course, 2021-2nd sememster
+
+[![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bayes.pdf)
+
+In bayesian framework, mostly local prior is used for model select. In this paper, nonlocal prior would be better to model select for some reasons.
+1. model consistency
+2. less RMSE
+<center><img src="images/nonlocal.PNG"/></center>
+---
+## Time Series representation for clustering using umbalanced Haar wavelet transformation (Review)
+
+[![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/haar.pdf)
+
+Recent time series data tend to be very high-dimensional and high-frequency.  
+Due to heavy computation, many studies have been conducted on the dimension reduction method to efficiently handle classification and clustering. (e.g. DFT, DWT, PAA)
+In this paper, DUHT(Discrete Unbalanced Haar Wavelet Tramsformation, Fryzlewicz, 2007) is mainly used.
+<center><img src="images/haar2.PNG"/></center>
+
+---
+## Weather big data Contest  
+
+### 대상/환경부장관상, 기상청 주관, Aug. 25, 2021.
+
+[![Open PPT](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/weather.pdf)
+[![Open news](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/news.pdf)
+
+Predicting landslides in Gyeongsang Province.
+Tool: R, Python
+Method: lgbm, xgboost, random forest.
 
 ---
 ## Creative Idea Contest in IT/Design Division
