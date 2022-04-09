@@ -8,7 +8,7 @@
 
 The study analyzes the inflow and departure of Seoul citizens' card users by gender and age group. First, fit the ARMA model and get estimates to detect outliers in univariate time series. Secondly, Dynamic Time Warping (DTW) clustering subsequently enables identify bound clusters. This study aims to help develop the use of Seoul citizens' cards by enhancing the understanding of user behaviours.
 
-<center><img src="SKKUresearch.PNG"/></center>
+<center><img src="SKKUresearch.png"/></center>
 
 ---
 ## Towards a Rigorous Evaluation of Time-Series Anomaly Detection (Review)
