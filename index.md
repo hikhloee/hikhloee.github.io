@@ -1,6 +1,16 @@
 # Portfolio
 
 ---
+## Time Series Outlier Detection and Clustering of Seoul Citizen Card User Behaviours (통계연구 22권0호 출판)
+
+[![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TAD.pdf)
+김경희. 2022. 서울시민카드 사용자 유입과 이탈에 대한 시계열 이상치 탐지와 DTW 클러스터링. 통계연구, 22(0) : 63-76
+
+The study analyzes the inflow and departure of Seoul citizens' card users by gender and age group. First, fit the ARMA model and get estimates to detect outliers in univariate time series. Secondly, Dynamic Time Warping (DTW) clustering subsequently enables identify bound clusters. This study aims to help develop the use of Seoul citizens' cards by enhancing the understanding of user behaviours.
+
+<center><img src="응통통계연구.PNG"/></center>
+
+---
 ## Towards a Rigorous Evaluation of Time-Series Anomaly Detection (Review)
 
 [![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TAD.pdf)
