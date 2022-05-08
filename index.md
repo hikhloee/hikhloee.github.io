@@ -1,4 +1,11 @@
 # Portfolio
+---
+## Differencial Privacy seminar
+
+[![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/[Kyunghee] Differential Privacy Presentation 220506.pdf)
+
+Seminar on concepts, motivation and application of differential privacy
+<center><img src="images/dp.PNG"/></center>
 
 ---
 ## Time Series Outlier Detection and Clustering of Seoul Citizen Card User Behaviours (통계연구 22권0호 출판)
