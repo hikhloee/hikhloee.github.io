@@ -4,7 +4,8 @@
 
 [![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/[Kyunghee] Differential Privacy Presentation 220506.pdf)
 
-Seminar on concepts, motivation and application of differential privacy
+Seminar on concepts, motivation and application of differential privacy.
+Mainly review: Differential privacy: A survey of results (Dwork, 2008).
 <center><img src="images/dp.PNG"/></center>
 
 ---
