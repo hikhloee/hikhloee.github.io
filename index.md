@@ -9,8 +9,8 @@ These are fundamental mathmatical models in network analysis. Models have been d
 
 ---
 ## Differencial Privacy seminar
-
 [![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Differential Privacy Presentation 220506.pdf)
+
 
 Seminar on concepts, motivation and application of differential privacy.
 Mainly reviewed: Differential privacy: A survey of results (Dwork, 2008).
