@@ -1,11 +1,19 @@
 # Portfolio
 ---
+## Random Graph Network Lab Seminar
+[![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Network_Chapter10_kyunghee.pdf)
+
+Seminar about Random Graph Network. Mainly cover poisson random graph, small world and Scale free network model.
+These are fundamental mathmatical models in network analysis. Models have been developed to express real world.
+<center><img src="images/fig16.PNG"/></center>
+
+---
 ## Differencial Privacy seminar
 
 [![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Differential Privacy Presentation 220506.pdf)
 
 Seminar on concepts, motivation and application of differential privacy.
-Mainly review: Differential privacy: A survey of results (Dwork, 2008).
+Mainly reviewed: Differential privacy: A survey of results (Dwork, 2008).
 <center><img src="images/dp.PNG"/></center>
 
 ---
