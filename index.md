@@ -1,4 +1,17 @@
 # Portfolio
+
+---
+## Temporal Differencial Privacy Seminar
+[![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/DP_presentation_0513.pdf)
+Paper: Beyond_Value_Perturbation_Local_Differential_Privacy_in_the_Temporal_Setting.
+
+There are 3 types of temporal DP mechanisms, Forward perturbation, Backward perturbation and Threshold Mechanism.
+Forward perturbation and Backward perturbation mechanisms are baselines for Temporal DP. However, both of them have a lot of costs especially in 
+missing, repetition and empty cost. Wheareas, Threshold Mechanism doesn't have these costs at all. 
+
+<center><img src="images/fig17.PNG"/></center>
+
+
 ---
 ## Random Graph Network Lab Seminar
 [![Open Presentation](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Network_Chapter10_kyunghee.pdf)
